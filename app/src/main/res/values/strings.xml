@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarbuzzApp</string>
+    <string-array name="options"></string-array>
+
+</resources>
